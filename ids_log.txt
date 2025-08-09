@@ -1,0 +1,17 @@
+2025-08-09 15:37:52.687608 - ID: 123 Data: deadbeef
+2025-08-09 15:38:10.209522 - ID: 123 Data: deadbeef
+2025-08-09 15:38:10.210790 - ID: 123 Data: deadbeef
+2025-08-09 15:38:10.212863 - ID: 123 Data: deadbeef
+2025-08-09 15:38:10.214904 - ID: 123 Data: deadbeef
+2025-08-09 15:38:10.216746 - ID: 123 Data: deadbeef
+ALERT: High frequency detected for ID 123
+2025-08-09 15:38:10.219228 - ID: 123 Data: deadbeef
+ALERT: High frequency detected for ID 123
+2025-08-09 15:38:10.221362 - ID: 123 Data: deadbeef
+ALERT: High frequency detected for ID 123
+2025-08-09 15:38:10.223412 - ID: 123 Data: deadbeef
+ALERT: High frequency detected for ID 123
+2025-08-09 15:38:10.225477 - ID: 123 Data: deadbeef
+ALERT: High frequency detected for ID 123
+2025-08-09 15:38:10.227354 - ID: 123 Data: deadbeef
+ALERT: High frequency detected for ID 123
